@@ -75,10 +75,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge&logo=brain&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind," alt="frontend"/>
 
 **Backend**
 
@@ -88,10 +90,12 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,railway" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,vercel,railway" alt="tools"/>
+
 
 ---
 
