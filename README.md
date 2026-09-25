@@ -23,9 +23,8 @@
 - 🧠 Currently working as an **AI/ML Intern / Software Intern** at **Sri Lanka Telecom (SLT)**
 - 📊 Also gaining experience as a **Data Science Trainee at Edgrow** (Remote)
 - 💡 Passionate about turning raw data into meaningful, real-world AI-powered solutions
-- 🩺 Currently building **MediCore**, an AI-integrated Hospital Management System
-- 🌱 Exploring the intersection of **Machine Learning**, **Data Analytics**, and **full-stack development**
-- 📫 Always open to Data Science / AI/ML internship and collaboration opportunities
+- 🌱 Exploring the intersection of **Machine Learning**, **Data Analytics**, and **Python full-stack development**
+- 📫 Always open to Data Science / AI/ML / Python Development and collaboration opportunities
 
 ---
 
